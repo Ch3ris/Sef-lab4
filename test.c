@@ -3,6 +3,6 @@
 int main()
 {
     printf("Un paraxinus si o cafrea");
-    printf("Brotherman bill");
+    printf("TS");
     printf("bota")
 }
